@@ -6,4 +6,3 @@ gitの練習をします
 .git status
 
 
-
