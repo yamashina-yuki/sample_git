@@ -4,3 +4,6 @@ gitの練習をします
 .git commit
 .git re
 .git status
+
+
+
